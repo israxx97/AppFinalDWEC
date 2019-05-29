@@ -1,0 +1,55 @@
+.redimensionar1 {
+    background: url(../images/GitHub-Octocat.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}
+
+.redimensionar2 {
+    background: url(../images/bootswatch.png);
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}
+
+.redimensionar3 {
+    background: url(../images/598970_ee10-1.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}
+
+.redimensionar4 {
+    background: url(../images/Jquery-Logo.png);
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}
+
+.redimensionar5 {
+    background: url(../images/rss2.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}
+
+.redimensionar6 {
+    background: url(../images/netbeans-logo-500x330.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}
+
+.redimensionar7 {
+    background: url(../images/20-xampp-logo-trio1.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}
+
+.redimensionar8 {
+    background: url(../images/gitlab.jpeg);
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}

@@ -1,0 +1,16 @@
+CACHE MANIFEST
+# v1 - 2019-05-23
+
+CACHE:
+webroot/css/footerStyles.css
+webroot/css/vInicioStyles.css
+webroot/css/vLoginStyles.css
+webroot/css/vMiCuentaStyles.css
+webroot/css/vRegistroStyles.css
+webroot/css/vWIPStyles.css
+
+NETWORK:
+index.php
+
+FALLBACK:
+index.php indice.php

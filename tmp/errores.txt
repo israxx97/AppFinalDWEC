@@ -1,0 +1,6 @@
+Fecha del error: 22-05-2019, 19:32:22
+Fichero del error: I:\xampp\htdocs\index_03\index\ProyectoDWEC\AppFinalDWEC\model\DBPDO.php
+Linea del error: 13
+Código del error: 42S02
+Mensaje del error: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'daw202_aplicacionloginlogoffmvc.t01_usuarios' doesn't exist in engine
+
